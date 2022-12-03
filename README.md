@@ -1,10 +1,10 @@
 # Olá sou Débora
 
-👩‍💻Estudando Desenvolvimento full Stack
+👩‍💻 Learning Desenvolvedora full Stack
 
-Contato: lolidu@yahoo.com.br
+📲 Contato: lolidu@yahoo.com.br
 
-Prononuns: ela/dela
+👩‍🦰 Prononuns: ela/dela
 
 <div align="center">
   <a href="https://github.com/Lolisdu">
@@ -17,10 +17,15 @@ Prononuns: ela/dela
   <img align="center" alt="De-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="De-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="De-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="De-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+          
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
+  ##
   
   <div align= "center">
-    	<a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/>
+    	<img align href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/>
+                       
+          
   </div>
     
