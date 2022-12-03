@@ -21,11 +21,17 @@
           
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
-  ##
   
-  <div align= "center">
-    	<img align href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/>
-                       
-          
-  </div>
-    
+  ##
+
+  <div align="center"> 
+<a href="https://instagram.com/eu.deborah.h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Débora#9331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/débora-pereira-de-oliveira-063953198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/lolisdu/lolisdu/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+   </div>
+
