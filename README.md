@@ -1,4 +1,4 @@
-# Olá sou Débora
+# Sou Débora
 
 👩‍💻 Learning Desenvolvedora full Stack
 
